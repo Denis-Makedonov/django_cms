@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-04 19:13+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mypolls/apps.py:7 polls_cms_integration/cms_plugins.py:10
+#: polls_cms_integration/cms_toolbars.py:21
+msgid "Polls"
+msgstr ""
+
+#: mypolls/models.py:6
+msgid "Question"
+msgstr ""
+
+#: mypolls/models.py:9
+msgid "poll"
+msgstr ""
+
+#: mypolls/models.py:10
+msgid "polls"
+msgstr ""
+
+#: mypolls/models.py:17
+msgid "Choice content"
+msgstr ""
+
+#: mypolls/models.py:23
+msgid "choice"
+msgstr ""
+
+#: mypolls/models.py:24
+msgid "choices"
+msgstr ""
+
+#: mysite/settings.py:163 mysite/settings.py:172
+msgid "English"
+msgstr ""
+
+#: mysite/settings.py:164 mysite/settings.py:179
+msgid "Russian"
+msgstr ""
+
+#: polls_cms_integration/cms_apps.py:9
+msgid "Polls Application"
+msgstr ""
+
+#: polls_cms_integration/cms_menus.py:13
+msgid "Polls Menu"
+msgstr ""
+
+#: polls_cms_integration/cms_plugins.py:11
+msgid "Poll Plugin"
+msgstr ""
+
+#: polls_cms_integration/cms_toolbars.py:24
+msgid "Poll list"
+msgstr ""
+
+#: polls_cms_integration/cms_toolbars.py:29
+msgid "Add new poll"
+msgstr ""
+
+#: polls_cms_integration/cms_wizards.py:13
+msgid "Poll"
+msgstr ""
+
+#: polls_cms_integration/cms_wizards.py:16
+msgid "Create a new Poll"
+msgstr ""
